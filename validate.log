@@ -1,0 +1,14 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /home/runner/work/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/exp-liquid-film-mass-transfer-coefficient-in-mixed-flow-reactor-iitb/experiment-descriptor.json
+Error: Schema is Invalid
